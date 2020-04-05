@@ -1,6 +1,6 @@
 import React from 'react';
 import { AppLoading } from 'expo';
-import { Container, Text } from 'native-base';
+import { Container} from 'native-base';
 import Navigator from './toolbar/toolbar';
 export default class App extends React.Component {
   constructor(props) {
